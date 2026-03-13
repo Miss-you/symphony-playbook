@@ -31,8 +31,21 @@ Setup notes and field logs for building, understanding, and using OpenAI Symphon
 
 ### Notes / 日志
 
-- [2026-03-13 Linear + Symphony: AI 完成后，如果要继续修 AI CR 或我自己不满意的内容，应该怎么处理？](notes/2026-03-13-linear-symphony-review-rework.md)
-  - Keywords: `Linear`, `Symphony`, `Human Review`, `Todo`, `Rework`, `PR feedback`
+- [2026-03-13 Linear + Symphony: What should I do when AI is "done" but the PR still needs review-driven fixes?](notes/2026-03-13-linear-symphony-review-rework.md) `EN`
+- [2026-03-13 Linear + Symphony：当 AI 已完成但 PR 还需要继续修时，该怎么处理？](notes/2026-03-13-linear-symphony-review-rework-cn.md) `CN`
+- Keywords: `Linear`, `Symphony`, `Human Review`, `Todo`, `Rework`, `PR feedback`
+
+## Language Convention / 语言约定
+
+- Long-form notes should not mix English and Chinese in the same file.
+- Use the base filename for English.
+- Use the same filename plus `-cn.md` for the Chinese companion.
+- Root-level summaries may stay briefly bilingual when useful.
+
+- 长篇笔记不要在同一个文件里中英混写。
+- 英文使用基础文件名。
+- 中文使用同名加 `-cn.md`。
+- 仓库根目录的简短说明在必要时可以保留双语。
 
 ## Working Method / 记录方式
 
